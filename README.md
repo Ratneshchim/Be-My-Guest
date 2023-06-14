@@ -67,7 +67,7 @@ The Project utilizes the following APIs, frameworks and tools:
 
 ### Domain Model
 
-<img width="100%" alt="image" src="./images/domain-model.png">
+<img width="100%" alt="image" src="./images/Screenshot 2023-06-14 at 1.54.15 PM.png">
 
 
 ### Snapshots of Project
