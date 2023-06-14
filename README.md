@@ -28,13 +28,7 @@
 
 <h3 id = "project-title" style = "margin-top: 10px; margin-bottom: 10px">Project Title : <em>BeMyGuest</em></h2>
 
-### Team Details
-| Member name                    | Member email                       |
-| :----------------------------- | :----------------------------------| 
-| Akash Bharadwaj Karthik &nbsp; | bharadwajkarthik.a@northeastern.edu|
-| Abhilash Gade                  | gade.ab@northeastern.edu           |   
-| Srikanth Chilaka               | chilaka.s@northeastern.edu         | 
-| Ratnesh Chimnani               | chimnani.r@northeastern.edu        |    
+  
 
 <p align="right"><a href="#readme-top">(back to top)</a></p>
 
