@@ -1,5 +1,10 @@
 <a name="readme-top"></a>
+### Snapshots of Project
 
+<img width="100%" alt="image" src="./images/Screenshot 2023-06-14 at 1.54.15 PM.png">
+<img width="100%" alt="image" src="./images/Screenshot 2023-06-14 at 1.55.23 PM.png">
+<img width="100%" alt="image" src="./images/Screenshot 2023-06-14 at 1.56.30 PM.png">
+<img width="100%" alt="image" src="./images/Screenshot 2023-06-14 at 1.58.19 PM.png">
 <!-- TABLE OF CONTENTS -->
 
  ## Table of Contents
@@ -70,12 +75,7 @@ The Project utilizes the following APIs, frameworks and tools:
 <img width="100%" alt="image" src="./images/domain-model.png">
 
 
-### Snapshots of Project
 
-<img width="100%" alt="image" src="./images/Screenshot 2023-06-14 at 1.54.15 PM.png">
-<img width="100%" alt="image" src="./images/Screenshot 2023-06-14 at 1.55.23 PM.png">
-<img width="100%" alt="image" src="./images/Screenshot 2023-06-14 at 1.56.30 PM.png">
-<img width="100%" alt="image" src="./images/Screenshot 2023-06-14 at 1.58.19 PM.png">
 
 
 
